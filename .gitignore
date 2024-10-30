@@ -10,9 +10,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+wildfly
+
 # Package Files #
 *.jar
-# *.war
+*.war
 *.nar
 *.ear
 *.zip
